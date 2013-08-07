@@ -1,2 +1,2 @@
-ghub-meta
-=========
+Gazebo Hub - Administrative Core Project
+========================================
